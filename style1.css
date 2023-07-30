@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: red; */
+    background-color: #181818;
+   
+}
+
+.rotate{
+    transform:rotate(270deg) ;
+}
+.btn{
+    width: 125px;
+height: 47px;
+}
+
+.bg-pink{
+    background-color: #a460f9;
+}
+
+.bg-white{
+    background-color: #ffff;
+}
